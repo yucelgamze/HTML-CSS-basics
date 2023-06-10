@@ -1,0 +1,38 @@
+h2 {
+    color:hotpink;
+    background-color: mediumpurple;
+}
+
+h3 {
+    color:deeppink;
+    background-color:darkslateblue;
+}
+
+p {
+    color:rgb(18, 13, 161);
+    background-color:greenyellow;
+}
+
+div {
+    background-color: rgb(81, 55, 230);
+}
+.firstdiv {
+    background-color: aquamarine;
+}
+.seconddiv {
+    background-color: rgb(48, 28, 199);
+}
+span {
+    background-color: deeppink;
+}
+body {
+    background-image: url("images/turtle.jpg");
+}
+#myParagraf {
+    color: greenyellow;
+    background-color: rgb(59, 39, 184);
+}
+#secondParagraf {
+    color: rgb(238, 11, 151);
+    background-color: rgb(28, 14, 132);
+}
